@@ -1,5 +1,5 @@
 1. Run docker compose:
-   `docker compose up -d --build`
+   `docker compose up -d`
 2. Run source:
    `yarn & yarn start:dev`
 3. Attach docker shell and then `cd /usr/bin`
